@@ -1,7 +1,7 @@
 Main Functions:
 
-is_valid_email() - Performs thorough email validation with multiple checks
-get_email_input() - Handles user input with validation and error feedback
+is_valid_email() - Performs thorough email validation with multiple checks.
+get_email_input() - Handles user input with validation and error feedback.
 main() - Demonstrates usage of the functions
 
 Validation Rules Implemented:
